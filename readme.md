@@ -3,11 +3,21 @@
  * @Author: 无序熵增
  * @Date: 2025-12-11 22:22:40
  * @LastEditors: 无序熵增
- * @LastEditTime: 2025-12-18 18:49:37
+ * @LastEditTime: 2025-12-18 18:58:20
  * @Description: 
  * 
  * Copyright (c) 2025 by 无序熵增, All Rights Reserved. 
 -->
+<div align="center">
+
+🌍 **Language** / **语言选择**
+  
+[![中文](https://img.shields.io/badge/English-blue?style=for-the-badge)](readme.md)
+[![English](https://img.shields.io/badge/中文-red?style=for-the-badge)](readme.en.md)
+
+</div>
+
+---
 # Hacker Console 固件源码
 
 ## 📋 项目介绍
