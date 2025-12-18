@@ -61,7 +61,7 @@ bool IO_CONFIG::adc_setup() {
 }
 
 bool IO_CONFIG::battery_voltage_update() {
-  if (battery_count > battery_count_max) {
+  if (battery_count >= battery_count_max) {
     battery_count = 0;
     battery_voltage = battery_long /  battery_count_max;
     battery_voltage = (uint32_t)battery_voltage * 33000 * 11 / 4095;
@@ -84,8 +84,7 @@ bool IO_CONFIG::battery_voltage_update() {
   Serial1.print(battery_voltage);
   Serial1.println();
   Serial1.print("battery percent:");
-  Serial1.print(battery_percent);
-  Serial1.println();
+  Serial1.println(battery_percent);
   Serial1.println("battery read finish");
 #endif
   return true;

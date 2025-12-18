@@ -136,7 +136,7 @@ private:
   bool pin_setup();
   bool adc_setup();
   uint8_t battery_count=0;
-  uint8_t battery_count_max=10;
+  uint8_t battery_count_max=50;
   unsigned long battery_long=0;
   const int delay_=500;
 };
