@@ -1,8 +1,9 @@
+<!-- English -->
 <!--
  * @Author: Entropy Disorder
  * @Date: 2025-12-11 22:22:40
- * @LastEditors: Entropy Disorder
- * @LastEditTime: 2025-12-18 10:34:01
+ * @LastEditors: 无序熵增
+ * @LastEditTime: 2025-12-18 18:49:16
  * @Description:
  *
  * Copyright (c) 2025 by Entropy Disorder, All Rights Reserved.
