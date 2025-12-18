@@ -2,7 +2,7 @@
  * @Author: 无序熵增
  * @Date: 2025-12-11 22:22:40
  * @LastEditors: 无序熵增
- * @LastEditTime: 2025-12-17 12:47:23
+ * @LastEditTime: 2025-12-18 10:34:01
  * @Description: 
  * 
  * Copyright (c) 2025 by 无序熵增, All Rights Reserved. 
@@ -84,6 +84,16 @@
 > **注意**：键盘程序需要**使用烧录器单独烧录**
 >
 > 如果您有能力修改代码，推荐使用 **picoprobe** 来烧录固件
+> 当然，您也可以使用我的另外一个开源项目：**rp2040-rp2350-debugger**，这是一个专为树莓派官方IC设计的烧录器，兼容pickit外壳
+> 地址在这：https://github.com/Chaoschaos1024/rp2040-rp2350-debugger
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="images/debuggerfront.jpg" alt="正面图" width="90%"><br>烧录器正面</td>
+<td align="center"><img src="images/debuggerback.jpg" alt="反面图" width="90%"><br>烧录器反面</td>
+</tr>
+</table>
+</div>
 
 ### 🖥️ 主板固件升级
 #### 操作步骤：
